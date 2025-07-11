@@ -1,2 +1,2 @@
 # If-the-site-is-blocked-the-mirror-is-here
-Если сайт заблокирован, зеркало тут
+Если сайт заблокирован, зеркало тут - https://storage.googleapis.com/amnezia/amnezia.org
